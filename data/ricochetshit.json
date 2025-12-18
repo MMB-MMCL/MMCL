@@ -1,0 +1,23 @@
+{
+    "id": 129155715,
+    "name": "Ricochet Shit",
+    "author": "DuckInTheUSA",
+    "creators": [],
+    "verifier": "finni1505",
+    "verification": "https://youtu.be/ew29HJiZ1vI",
+    "percentToQualify": "100",
+    "records": [
+         {
+            "user": "Sadisyourlife",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1448097697314635776/ricochet_shit.mp4?ex=693aae53&is=69395cd3&hm=60abbc887aba0fb2421c7eb2a85d330f20290b66f5426db477fda3b6d71cf7fa&",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=ADG1OSziI-M",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

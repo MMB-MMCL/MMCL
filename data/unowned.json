@@ -1,0 +1,35 @@
+{
+    "id": 129190320,
+    "name": "Unowned",
+    "author": "DuckInTheUSA",
+    "creators": [],
+    "verifier": "DuckInTheUSA",
+    "verification": "https://youtu.be/y8OYKd1-jiE",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "finni1505",
+            "link": "https://medal.tv/de/games/geometry-dash/clips/lGfbtBbkxaEBZIgF0?invite=cr-MSxoQXMsMzY5MjUzOTQw&v=30",
+            "hz": "240",
+            "percent": 100
+        },
+         {
+            "user": "Sadisyourlife",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1448097699089092820/unowned.mp4?ex=693aae53&is=69395cd3&hm=554252af68ce651510936e53d1431f5061da5ca9c90272a7f4a9e60bec8edda7&",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=ADG1OSziI-M",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "CreeperJamie909",
+            "link": "https://medal.tv/games/geometry-dash/clips/lGAJrgTnWtViPZzjN?invite=cr-MSx5c1YsMjAwMzMxODc2&v=15",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

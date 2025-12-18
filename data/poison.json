@@ -1,0 +1,17 @@
+{
+    "id": 129161336,
+    "name": "Poison",
+    "author": "RustyGD25",
+    "creators": [],
+    "verifier": "Megatron",
+    "verification": "https://www.youtube.com/watch?v=rF2S9BmNb-s",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Zenos Sins",
+            "link": "https://youtu.be/GVxDJahsgWo?si=6wD7ftVgszzeEze9",
+            "hz": "480",
+            "percent": 100
+        }
+    ]
+}

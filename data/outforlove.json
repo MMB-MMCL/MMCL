@@ -1,0 +1,23 @@
+{
+    "id": 129211417,
+    "name": "Out For Love",
+    "author": "Rusty25GD",
+    "creators": [],
+    "verifier": "Megatron",
+    "verification": "https://www.youtube.com/watch?v=gR8ntMjnQ8c",
+    "percentToQualify": "100",
+    "records": [
+      {
+        "user": "Zenos Sins",
+        "link": "https://youtu.be/UCyxjPddwUs?si=uN82u-zr2UsRyaKD",
+        "hz": "480",
+        "percent": 100
+      },
+      {
+        "user": "tFluffy",
+        "link": "https://youtu.be/6kaPo_U8934",
+        "hz": "240",
+        "percent": 100
+      }
+    ]
+}

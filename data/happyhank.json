@@ -1,0 +1,35 @@
+{
+    "id": 127222284,
+    "name": "Happy hank",
+    "author": "zis76",
+    "creators": [],
+    "verifier": "Megatron",
+    "verification": "https://www.youtube.com/watch?v=elRt4BaQAWg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1437905282104688742",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=B48cJvKb8t4",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/t--GBjzKrUI",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "finni1505",
+            "link": "https://medal.tv/de/games/geometry-dash/clips/lFL5aIxWKUTW5_Xce?invite=cr-MSxXbkwsMzY5MjUzOTQw&v=30",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

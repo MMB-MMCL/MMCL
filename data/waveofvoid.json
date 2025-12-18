@@ -1,0 +1,72 @@
+{
+    "id": 126893260,
+    "name": "Wave of void",
+    "author": "Nuridint3b",
+    "creators": [],
+    "verifier": "Nuridint3b",
+    "verification": "https://www.youtube.com/watch?v=7RqBV8Y_Fyg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "fjkr",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/lhwi4F9plTyzCeEPQ?invite=cr-MSxQYnAsNDM2Nzg5MDc5&v=20",
+            "percent": 100,
+            "hz": 200
+            },
+        {
+             "user": "finni1505",
+            "link": "https://youtu.be/QJM7XqPncDw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+             "user": "blightedcoconut",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1432780963452031117/bandicam_2025-10-28_21-19-29-929.mp4?ex=6904efc1&is=69039e41&hm=7af7e406c1df05a2dbaa54a5b2e46affb016a5df4ff9b52e91fb1304d5c97d9b&",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=d0mlnnUsWFs",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Zenos Sins",
+            "link": "https://www.youtube.com/watch?v=oWm8MDpKeZg",
+            "hz": "120",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/JbWY9KlXn0U",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "DuckInTheUSA",
+            "link": "https://medal.tv/fr/games/geometry-dash/clips/luGTs4uLNpRTJ8M7S?invite=cr-MSxTdTAsMzE2MzcxNzkz&v=13",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=rhB_XztHlj0",
+            "hz": "360",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/jVO-HZpSClk?si=EW3x8nkgR7gOobCI",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "tomato",
+            "link": "https://www.youtube.com/watch?v=-TBS2iTWHuo",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

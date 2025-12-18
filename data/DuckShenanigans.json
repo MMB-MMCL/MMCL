@@ -1,0 +1,30 @@
+{
+    "id": 127970825,
+    "name": "Duck Shenanigans",
+    "author": "zenos1000",
+    "creators": [],
+    "verifier": "Zenos Sins",
+    "verification": "https://youtu.be/lPeCMgPWrWE?si=ogGGqZp6CrTVGygh",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "aerial",
+            "link": "https://youtu.be/V3CR1WcU_9s?si=dFpyDuwpXr6WzLwK",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1439688506803753203",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "finni1505",
+            "link": "https://medal.tv/games/geometry-dash/clips/lFL0vbHfkUO8WSRxr?invite=cr-MSw2YnosMzY5MjUzOTQw",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

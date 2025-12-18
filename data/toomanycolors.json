@@ -1,0 +1,35 @@
+{
+    "id": 128577829,
+    "name": "too many colors",
+    "author": "D3adSpac3",
+    "creators": [],
+    "verifier": "D3adSpac3",
+    "verification": "https://youtu.be/YIuBrnpyk98",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "zis76",
+            "link": "https://youtu.be/Awh0DNdbNOo/",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=BKA7o49bjco",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1448097176193335482",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/m_gtIH-aDZo",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

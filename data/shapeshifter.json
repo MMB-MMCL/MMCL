@@ -1,0 +1,29 @@
+{
+    "id": 125661146,
+    "name": "shape shifter",
+    "author": "DuckInTheUsa",
+    "creators": ["DuckInTheUsa"],
+    "verifier": "finni1505",
+    "verification": "https://youtu.be/DWJyLbbINgk",
+    "percentToQualify": "100",
+    "records": [
+         {
+            "user": "tFluffy",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1426328169509552188/shape_shifter.mp4?ex=68eb7bdf&is=68ea2a5f&hm=1ff8e6126fb00c835f9d2584460bf1273cd49ca92c5f61a4e15de5bed52db968&",
+            "percent": 100,
+            "hz": 240
+             },
+         {
+            "user": "Zenos Sins",
+            "link": "https://youtu.be/PMB0MI9o4MA?si=rw8ycUQQoHautGH8",
+            "percent": 100,
+            "hz": 120
+            },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=B48cJvKb8t4",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

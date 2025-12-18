@@ -1,0 +1,35 @@
+{
+    "id": 126243483,
+    "name": "prepare rem",
+    "author": "Orbitra",
+    "creators": [],
+    "verifier": "finni1505",
+    "verification": "https://youtu.be/vdMJiXUMVqI",
+    "percentToQualify": "100",
+    "records": [
+        {
+             "user": "blightedcoconut",
+            "link": "https://www.youtube.com/watch?v=HJCdmz3uF3Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zenos Sins",
+            "link": "https://www.youtube.com/watch?v=OwghvCmH-tw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/JbWY9KlXn0U",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/a6opGPbCHNY?si=dEjqxxoh9IMieep1",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

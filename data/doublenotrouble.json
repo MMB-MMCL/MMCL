@@ -1,0 +1,85 @@
+{
+    "id": 126778487,
+    "name": "double no trouble",
+    "author": "FeNrJJ",
+    "creators": [],
+    "verifier": "FJKR",
+    "verification": "https://youtu.be/scY9hz1XtRQ",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "DuckInTheUSA",
+            "link": "https://youtu.be/a6vSTQ04krw?si=SdHyI61Y-IXkoKqW",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/a6vSTQ04krw",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+             "user": "pixel",
+            "link": "https://youtu.be/4N28yVFO-m4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+             "user": "blightedcoconut",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1431566709134856314/bandicam_2025-10-25_12-54-36-615.mp4?ex=68ff3364&is=68fde1e4&hm=750b9e5f5ef2262b7c375a6c420d711996a7ca6f44213016cbdfcec6e1e53071&",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=d0mlnnUsWFs",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "finni1505",
+            "link": "https://medal.tv/games/geometry-dash/clips/lpHKQuTpNE48q5A5Q?invite=cr-MSxTdFMsMzY5MjUzOTQw&v=39",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Zenos Sins",
+            "link": "https://www.youtube.com/watch?v=oWm8MDpKeZg",
+            "hz": "120",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/JbWY9KlXn0U",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=rhB_XztHlj0",
+            "hz": "360",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/WWrXg8UnVnA?si=G6oWzhK0HGVGdYOl",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "tomato",
+            "link": "https://www.youtube.com/watch?v=-TBS2iTWHuo",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Fentanyl",
+            "link": "https://youtu.be/9fGHOL2WqoA",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

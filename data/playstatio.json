@@ -1,0 +1,29 @@
+{
+    "id": 125653324,
+    "name": "play st a tio",
+    "author": "finni1505",
+    "creators": [],
+    "verifier": "finni1505",
+    "verification": "https://youtu.be/jm5dKU2z5qQ",
+    "percentToQualify": "100",
+    "records": [
+        {
+             "user": "pixel",
+            "link": "https://youtu.be/4N28yVFO-m4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/JbWY9KlXn0U",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/TeWWf9OyUaE?si=IZoVyGIzwFTi72NL",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

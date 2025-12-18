@@ -1,0 +1,47 @@
+{
+  "id": 129144406,
+  "name": "I Will Forget",
+  "author": "CreeperJamie",
+  "creators": [],
+  "verifier": "CreeperJamie909",
+  "verification": "https://youtu.be/u6nhEakcC9g",
+  "percentToQualify": "100",
+  "records": [
+      {
+          "user": "Megatron",
+          "link": "https://www.youtube.com/watch?v=x2_CdfjINWE",
+          "hz": "360",
+          "percent": 100
+      },
+      {
+            "user": "tomato",
+            "link": "https://www.youtube.com/watch?v=-TBS2iTWHuo",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "finni1505",
+            "link": "https://medal.tv/de/games/geometry-dash/clips/lFNuGdjHaecWQRYSQ?invite=cr-MSw5TEcsMzY5MjUzOTQw&v=30",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1448096998765887700",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "FJKR",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/lGfiUEKWg8eiSaAyX?invite=cr-MSw3VEMsNDM2Nzg5MDc5&v=173",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/m_gtIH-aDZo",
+            "hz": "240",
+            "percent": 100
+        }
+  ]
+}
