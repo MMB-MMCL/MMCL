@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/kYklq37CH5g?si=rtwVudBPvOGU7byO",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "MMB5959",
+            "link": "https://www.youtube.com/watch?v=8Agrr6-Rl1U",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
