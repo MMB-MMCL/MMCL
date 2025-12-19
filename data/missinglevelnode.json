@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=8Agrr6-Rl1U",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "moth",
+            "link": "https://cdn.discordapp.com/attachments/1451683012298150054/1451683014080987246/Replay_2025-12-19_21-07-01.mp4?ex=694710a9&is=6945bf29&hm=d27320348f5829cf15fdd917e999d65fb9a32b2b15aee1111d6c195b0257123f&",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
