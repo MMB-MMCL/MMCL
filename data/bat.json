@@ -6,6 +6,11 @@
     "verifier": "probro675",
     "verification": "https://youtu.be/uXUWMpTSans?si=P7K2Cx0T4jbqdBR7",
     "percentToQualify": "100",
-    "records": [
+    "records": [{
+            "user": "MMB9595",
+            "link": "https://medal.tv/games/geometry-dash/clips/lSWrWmFnHRfv7g-9j?invite=cr-MSx4MVksMTM0MTkyOTY4&v=49",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
