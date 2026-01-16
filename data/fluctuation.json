@@ -11,11 +11,18 @@
             "link": "https://medal.tv/games/geometry-dash/clips/lP5kNVDEZIvgqXwNP?invite=cr-MSx5bm0sMTM0MTkyOTY4&v=300",
             "percent": 100,
             "hz": 360
-        },{
+        },
+        {
             "user": "probro675",
             "link": "https://youtu.be/t3Hr1DLRY9Y?si=rQQX_8XVUNtG7d0Z",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "D3adSpac3",
+            "link": "https://discord.com/channels/1438982485726724118/1461838693605314714/1461838693605314714",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
