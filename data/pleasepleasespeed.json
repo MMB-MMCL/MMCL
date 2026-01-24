@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=vD0fXSHj56Q",
     "percentToQualify": "100",
     "records": [
+         {
+            "user": "zis08",
+            "link": "https://youtu.be/QDCF6qP0AHE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
