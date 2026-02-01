@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/tkJVNcWYvCE",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "zis08",
+            "link": "https://medal.tv/games/geometry-dash/clips/m11R9u1R3bW89-KRC?invite=cr-MSxldG8sMTY4ODkwOTU4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "mmb9596",
+            "link": "https://medal.tv/games/geometry-dash/clips/m20uDOAoB58a-cNb-?invite=cr-MSxtSmUsMTM0MTkyOTY4&v=29",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
