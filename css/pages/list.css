@@ -126,3 +126,33 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+
+.page-list .list-container {
+    padding-inline: 1rem;
+    display: flex;
+    flex-direction: column; 
+}
+
+.page-list .list-container .search-bar {
+    margin-bottom: 1rem;
+    width: 100%;
+    position: relative;
+    z-index: 1; 
+}
+
+.page-list .list-container .search-bar input {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    border: 1px solid var(--color-border, #ccc);
+    border-radius: 0.5rem;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+.page-list .list-container .search-bar input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 4px var(--color-primary);
+}
