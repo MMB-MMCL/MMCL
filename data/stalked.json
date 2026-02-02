@@ -8,4 +8,17 @@
     "percentToQualify": "100",
     "records": [
     ]
+        {
+            "user": "MMB9595",
+            "link": "https://medal.tv/games/geometry-dash/clips/lZVzjiVUocSm-M8yB?invite=cr-MSwwY3ksMTM0MTkyOTY4&v=10",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zis08",
+            "link": "https://medal.tv/games/geometry-dash/clips/m0ukteUKstE-_oHKB?invite=cr-MSxjTDUsMTY4ODkwOTU4&v=60",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
