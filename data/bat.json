@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "probro675",
     "verification": "https://youtu.be/uXUWMpTSans?si=P7K2Cx0T4jbqdBR7",
-    "percentToQualify": "60",
+    "percentToQualify": "100",
     "records": [
         {
             "user": "MMB9595",
@@ -17,12 +17,6 @@
             "user": "c1z",
             "link": "https://youtu.be/GRVYLmeqDl0",
             "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "zis08",
-            "link": "https://youtu.be/GRVYLmeqDl0",
-            "percent": 62,
             "hz": 240
         }
     ]
