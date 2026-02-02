@@ -7,5 +7,23 @@
     "verification": "https://www.youtube.com/watch?v=mnVQ4PD2iMs",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "D3adspac3",
+            "link": "https://discord.com/channels/1438982485726724118/1467253693438099498/1467253693438099498",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MMB9595",
+            "link": "https://medal.tv/games/geometry-dash/clips/m1GCrG8JAsi-HFfBA?invite=cr-MSxobkosMTM0MTkyOTY4&v=35",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Probro675",
+            "link": "https://medal.tv/games/geometry-dash/clips/m1WOu5zVKRwfyuyxf",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
