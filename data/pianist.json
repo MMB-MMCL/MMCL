@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=caK8FlVqt1I",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "MMB9595",
+            "link": "https://discord.com/channels/1438982485726724118/1469774129262755920/1469774129262755920",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
