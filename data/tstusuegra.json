@@ -6,5 +6,12 @@
     "verifier": "MMB9595",
     "verification": "https://www.youtube.com/watch?v=GDfcIWsdqa0",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "FwoggieOnMobile",
+            "link": "https://discord.com/channels/1438982485726724118/1470415250921750632/1470415250921750632",
+            "percent": 100,
+            "hz": 60
+        }       
+    ]
 }
