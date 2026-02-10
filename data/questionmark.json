@@ -6,6 +6,24 @@
     "verifier": "DarkCity8",
     "verification": "https://youtu.be/T6IDZnl4Qj4?si=InirR0OCnsEPZA-P",
     "percentToQualify": "100",
-    "records": [ 
+    "records": [
+        {
+            "user": "zis08",
+            "link": "https://medal.tv/games/geometry-dash/clips/m3qdINXAcXVDx9cXu?invite=cr-MSxYb2osMTY4ODkwOTU4&v=60",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "probro675",
+            "link": "https://medal.tv/games/geometry-dash/clips/m3C7UeNKFi-Okv41X",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MMB9595",
+            "link": "https://medal.tv/games/geometry-dash/clips/m3J86trDuac-pmD3c?invite=cr-MSxTSXEsMTM0MTkyOTY4&v=12",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
