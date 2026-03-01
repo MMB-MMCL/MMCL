@@ -6,6 +6,12 @@
     "verifier": "c1z",
     "verification": "https://youtu.be/DZdjAL9Fr8Y",
     "percentToQualify": "100",
-    "records": [
+    "records": [        
+        {
+            "user": "MMB9595",
+            "link": "https://www.youtube.com/watch?v=aCyd_tKcW2Q",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
