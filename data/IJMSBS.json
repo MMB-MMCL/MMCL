@@ -7,5 +7,10 @@
     "verification": "https://youtu.be/WuQxYK0qZqI?si=SDn6ga0WRF3Ai7CE",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "MMB9595",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
