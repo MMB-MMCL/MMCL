@@ -11,6 +11,11 @@
             "user": "MMB9595",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "triologix",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
