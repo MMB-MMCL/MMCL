@@ -42,6 +42,11 @@
             "link": "https://discord.com/channels/1438982485726724118/1477104544667275367/1477104544667275367",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "triologix",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
