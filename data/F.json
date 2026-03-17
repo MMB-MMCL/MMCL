@@ -1,0 +1,21 @@
+{
+    "id": 134915115,
+    "name": "Felsensang",
+    "author": "FwoggieOnMobile",
+    "creators": [],
+    "verifier": "FwoggieOnMobile",
+    "verification": https://www.youtube.com/watch?v=C48s7pHdlkU",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MMB9595",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zis08",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
