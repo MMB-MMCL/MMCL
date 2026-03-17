@@ -1,0 +1,21 @@
+{
+    "id": 134941716,
+    "name": "The End is HERE",
+    "author": "triologix",
+    "creators": [],
+    "verifier": "triologix",
+    "verification": "https://youtu.be/e7Vo-fPS4Q0?si=l7tfD9TEGcRlXpsH",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MMB9595",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zis08",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
