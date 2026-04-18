@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/Dwzlei4KhNg?si=5A9rpFnf8KWOTjmm",
     "percentToQualify": "100",
     "records": [
+                {
+            "user": "Nuridint3b",
+            "link": "https://cdn.discordapp.com/attachments/1485301512241414286/1485301514036580493/IMG_2790.mov?ex=69e4f6d4&is=69e3a554&hm=af58d06c5fa4008e1dd8634056306c39c4e803eb3298bdc93fcff874dba39f36&",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
