@@ -6,6 +6,11 @@
     "verifier": "FwoggieOnMobile",
     "verification": "https://youtu.be/b8v7omrV2oM",
     "percentToQualify": "100",
-    "records": [
+    "records": [ {
+            "user": "mmb9595",
+            "link": "https://www.youtube.com/watch?v=1Ko3sIowwr8",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
