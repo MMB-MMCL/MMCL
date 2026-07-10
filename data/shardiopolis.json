@@ -6,6 +6,11 @@
     "verifier": "probro675",
     "verification": "https://youtu.be/S2B2JVEOxbQ?si=0hlf-vQHAkxh612i",
     "percentToQualify": "100",
-    "records": [
-    ]
+    "records": [ {
+            "user": "MMB9595",
+            "link": "https://www.youtube.com/watch?v=iUkaTd9exK0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]       
 }
