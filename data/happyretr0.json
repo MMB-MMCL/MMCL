@@ -6,6 +6,16 @@
     "verifier": "darkcity8",
     "verification": "https://youtu.be/Asa9DM0JsOg?si=dU1wqxa2S93S6tpH",
     "percentToQualify": "100",
-    "records": [
+    "records": [        {
+            "user": "Triologix",
+            "link": "https://discordapp.com/channels/1438982485726724118/1496704686441500772/1496704686441500772",
+            "percent": 100,
+            "hz": 60
+        },        {
+            "user": "mmb9595",
+            "link": "https://cdn.discordapp.com/attachments/1496561860911300898/1496561861930520586/MedalTVGeometryDash20260422171825069-trim-1776878428824.mp4?ex=6a527bd8&is=6a512a58&hm=0128650663c824c9b7ab3211b665ceb3ff0b63d58f1792493e7a91938a15fee1&",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
