@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=pmCuAyZuck8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Triologix",
+            "link": "https://cdn.discordapp.com/attachments/1528604742115397712/1528604742891208805/RPReplay_Final1784508421.mov?ex=6a5ee79a&is=6a5d961a&hm=91f1e860d283a447df48cf51db52dabccfaf225089414a50db78edb5af8eba62&",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
