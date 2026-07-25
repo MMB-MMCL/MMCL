@@ -6,6 +6,7 @@
     "verifier": "lebon",
     "verification": "https://www.youtube.com/watch?v=_k4ErvPfzCo",
     "percentToQualify": "100",
+    "face": "m2",
     "records": [        
         {
             "user": "MMB9595",
