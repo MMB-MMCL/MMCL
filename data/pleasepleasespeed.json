@@ -30,6 +30,12 @@
             "link": "https://youtu.be/g8ZjKifXZDw?si=ASvlQhNf8WCWdP2X",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Tomato",
+            "link": "https://cdn.discordapp.com/attachments/1529583944113328199/1529583945375809546/pps.mp4?ex=6a6471ce&is=6a63204e&hm=0f7a2c9fc4f681eea9c2cb93fbc4d0ef9ed2213946b7aa8ac496de958a1aade1&",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
