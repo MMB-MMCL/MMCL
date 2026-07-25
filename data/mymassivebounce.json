@@ -42,6 +42,12 @@
             "link": "https://discord.com/channels/1438982485726724118/1476186674869440553",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "Tomato",
+            "link": "https://cdn.discordapp.com/attachments/1529583944113328199/1529583946960994324/boingboingboing.mp4?ex=6a6471cf&is=6a63204f&hm=d22d030f5d2f9922bff097a8ce80c615a664a6682108e33ae36e0c5f5199ebdd&",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }
