@@ -8,5 +8,15 @@
       "Shiver",
       "RHFC"
     ]
+  },
+  {
+    "name": "Hello Neighbour Pack",
+    "color": "#f542e3",
+    "points": 125,
+    "levels": [
+      "Exit Path",
+      "GET OUT",
+      "Under The Door",  
+    ]
   }
 ]
