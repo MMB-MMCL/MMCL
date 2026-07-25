@@ -235,9 +235,7 @@ export default {
                     <p>
                         age // also if the level is older than "dihhspace"s id of "130638150" it will be denied, since dihhspace was created the day the list was created, this gives a good estimation on how old a level can be 
                     </p>
-                </div>
-
-                    </template>
+                    
                     <h3>LEVEL STANDARDS</h3>
                     <p>
                         the standard/minimum for a level would be the quality of "PLEASE PLEASE SPEED" or "EXIT PATH". so go to those levels if you want an estimation of what the quality standard is for a level on the MMCL.
