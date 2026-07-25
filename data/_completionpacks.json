@@ -18,5 +18,17 @@
       "GET OUT",
       "Under The Door",  
     ]
+  },
+  {
+    "name": "Dih Pack",
+    "color": "#FFAF54",
+    "points": 125,
+    "levels": [
+      "My Massive Bounce",
+      "DihhSpace",
+      "My Rod is Hot",
+      "Cok In Me",
+      "My Massive Dihh"
+    ]
   }
 ]
