@@ -36,6 +36,10 @@ export default {
         return level.name.toLowerCase().includes(this.searchQuery.toLowerCase());
       });
     },
+      faceImage() {
+        if (!this.selectedLevel?.face) return "";
+        return `/assets/Demons/${this.selectedLevel.face}.png`;
+    },
     selectedLevel() {
       return this.filteredList[this.selected]
         ? this.filteredList[this.selected][0]
@@ -117,7 +121,18 @@ export default {
       </div>
       <div class="level-container" v-if="selectedLevel">
         <div class="level">
-          <h1>{{ selectedLevel.name }}</h1>
+         <div class="level-header">
+            <img
+                v-if="selectedLevel?.face"
+                class="demon-face"
+                :src="faceImage"
+                :alt="selectedLevel.name"
+            >
+        
+            <h1>
+                {{ selectedLevel.name }}
+            </h1>
+        </div>
           <LevelAuthors :author="selectedLevel.author" :creators="selectedLevel.creators" :verifier="selectedLevel.verifier"></LevelAuthors>
           <iframe class="video" id="videoframe" :src="embed(selectedLevel.showcase || selectedLevel.verification)" frameborder="0"></iframe>
           <ul class="stats">
