@@ -207,36 +207,61 @@ export default {
               </li>
             </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>RULES FOR THE CHALLENGE LIST</h3>
                     <p>
-                        You can copy one level on the list
+                        no exploiting of any kind // obviously, literally anything like macros, hitbox multiplier, noclip are all bannable offenses, and if you get caught cheating you will immediately get banned from the list with no further exceptions.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 1000fps yes its crazy)
+                       ALSO, on another note for the same rule, IF you were caught cheating of any kind in any other list, you will be banned on this list aswell.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                       recordings // all completions must have audible clicks in them, and the attempt prior to completion, also you have to include you hitting the end wall, aswell as the level complete menu at the end of the completion for it to be legitimate.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        FPS // NO odd fps' are allowed (unless its your native monitor refresh rate.), so just use the standard FPS (60, 120, 144, 180, 240, CBF).
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        secret ways // you have to use the verifiers path of completion, unless its a multiple choice challenge. i.e no secret ways, no swag routes, etc.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        level // the completion has to be on an unmodified version of the level.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes also dont alternate
+                        indicator // you must have cheat indicator on for the entire run, UNLESS your playing on vanilla GD (no mods)
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        length // i didnt think id have to write this, but if it wasnt already obvious, your level has to be in the "challenge list level length" which is ranging from 0 seconds, to 29 seconds, so any level thats "medium" length or more will not be accepted on this list. this also includes times from endscreens and not when gp/clicks stop. the only exception is if the completion animation takes time that extends your level, since this cannot be helped. estimators may decide if a level of that category is acceptable or not for the list.
                     </p>
                     <p>
-                    on invisible levels do not use show hitbox on death
+                        age // also if the level is older than "dihhspace"s id of "130638150" it will be denied, since dihhspace was created the day the list was created, this gives a good estimation on how old a level can be
+                    <p>
+                        
+                    </p>
+                    <h3>LEVEL STANDARDS</h3>
+                    <p>
+                        the standard/minimum for a level would be the quality of "PLEASE PLEASE SPEED" or "EXIT PATH". so go to those levels if you want an estimation of what the quality standard is for a level on the MMCL.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we dont accept records after it falls off
+                        (basically, just have structured gameplay.)
+                    </p>
+                    <p>
+                       CPS // levels cannot have more than 9 CPS.
+                    </p>
+                    <p>
+                       consistency // the level CAN have some kind of consistency gameplay, HOWEVER, it cannot be the hardest part of the level and cant take up majority of the level
+                    </p>
+                    <p>
+                        (majority is pretty vague, but estimators will have a poll on which levels containing consistency should be allowed or not, but if your level just has alot of it, it probably wont go to poll stages and will get denied immediately.)
+                    </p>
+                    <p>
+                        framelocked // your level cant be framelocked, as in it shouldnt ONLY be possible on one single FPS, (60 only, for example).
+                    </p>
+                    <p>
+                        copying // obviously, you cant copy/steal gameplay from a different level, doesnt really matter if its rated or not. you can (in some cases) use it as background deco if your making slop (like the devil vortex saws for example) but other then that its deniable. estimators may judge on the levels acceptability depending on the situation. 
+
+                    </p>
+                    <p>
+                        Fire Rate // "Fire Rate" is a newer rule to stop either newer members of the challenge list, or people with alot of older challenges to mass inflate the list. this rule makes it so you are only allowed to submit 4 challenges to the challenge list per changelog, and exceeding that limit, your levels will be "rate limited" or denied, due to already having 4 existing levels on the pending list. this will prevent mass submission and prevents me from doing more work ;)
                     </p>
                 </div>
             </div>
