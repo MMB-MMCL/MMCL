@@ -233,10 +233,11 @@ export default {
                         length // i didnt think id have to write this, but if it wasnt already obvious, your level has to be in the "challenge list level length" which is ranging from 0 seconds, to 29 seconds, so any level thats "medium" length or more will not be accepted on this list. this also includes times from endscreens and not when gp/clicks stop. the only exception is if the completion animation takes time that extends your level, since this cannot be helped. estimators may decide if a level of that category is acceptable or not for the list.
                     </p>
                     <p>
-                        age // also if the level is older than "dihhspace"s id of "130638150" it will be denied, since dihhspace was created the day the list was created, this gives a good estimation on how old a level can be
-                    <p>
-                        
+                        age // also if the level is older than "dihhspace"s id of "130638150" it will be denied, since dihhspace was created the day the list was created, this gives a good estimation on how old a level can be 
                     </p>
+                </div>
+
+                    </template>
                     <h3>LEVEL STANDARDS</h3>
                     <p>
                         the standard/minimum for a level would be the quality of "PLEASE PLEASE SPEED" or "EXIT PATH". so go to those levels if you want an estimation of what the quality standard is for a level on the MMCL.
