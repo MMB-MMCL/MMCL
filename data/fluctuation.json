@@ -48,6 +48,12 @@
             "link": "https://youtu.be/QS86rBB4Zec?si=IYKn9KlBskpGIHKg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Tomato",
+            "link": "https://www.youtube.com/watch?v=XZV4lCW1Dik&t=379s",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }
