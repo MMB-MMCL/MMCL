@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "face": "i2",
     "records": [
+        {
+            "user": "zis08",
+            "link": "https://medal.tv/games/geometry-dash/clips/ncbV8sIGqIgxe93IE?invite=cr-MSw1bG0sMTY4ODkwOTU4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tomato",
+            "link": "https://cdn.discordapp.com/attachments/1531114029169246338/1531114029752389866/get_our.mp4?ex=6a68088f&is=6a66b70f&hm=6a9d0a761311e29c83bd9b1b67088ed1f45d348afd11dca3dc9fccfea914925b&",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
