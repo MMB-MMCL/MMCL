@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "face": "h1",
     "records": [
+        {
+            "user": "MMB9595",
+            "link": "https://www.youtube.com/watch?v=pmCuAyZuck8",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
