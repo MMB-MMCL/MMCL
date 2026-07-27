@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "face": "i1",
     "records": [
+        {
+            "user": "zis08",
+            "link": "https://medal.tv/games/geometry-dash/clips/mkIJbpch2kMTktGfF",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MMB9595",
+            "link": "https://www.youtube.com/watch?v=xA0l1qNxvlM",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
