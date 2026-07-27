@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "face": "ex3",
     "records": [
+        {
+            "user": "probro675",
+            "link": "https://youtu.be/YoYezJTZTzY?is=ujd0f5XaxgHuIUNe",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
