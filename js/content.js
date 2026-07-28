@@ -202,6 +202,7 @@ export async function fetchCreatorLeaderboard() {
                 link: level.verification,
             });
         });
+    });
 
     const res = Object.entries(creatorMap).map(([user, data]) => ({
         user,
