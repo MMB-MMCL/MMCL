@@ -201,7 +201,7 @@ export async function fetchCreatorLeaderboard() {
                 link: level.verification,
             });
         });
-    }); // <-- You were missing this
+    });
     
     const res = Object.entries(creatorMap).map(([user, data]) => ({
         user,
