@@ -91,3 +91,38 @@
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
+
+.leaderboard-switch {
+    display: flex;
+    width: calc(100% - 24px);
+    margin: 12px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid #505050;
+    background: #2b2b2b;
+}
+
+.leaderboard-switch button {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    background: transparent;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.leaderboard-switch button + button {
+    border-left: 2px solid #505050;
+}
+
+.leaderboard-switch button:hover:not(.active) {
+    background: #3a3a3a;
+}
+
+.leaderboard-switch button.active {
+    background: #2d8cff;
+    color: white;
+}
