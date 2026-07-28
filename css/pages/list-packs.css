@@ -1,23 +1,23 @@
 .page-list-packs {
   display: grid;
-  grid-template-columns:
-    minmax(180px, 2fr)
-    minmax(220px, 2fr)
-    minmax(0, 8fr);
+  grid-template-columns: 180px 220px 1fr;
 
-  column-gap: 2rem;
+  gap: 1.5rem;
+
+  width: 100%;
+  max-width: 1200px;
+  height: calc(100vh - 4rem);
+
   margin: 0 auto;
-  height: 100%;
-  padding-block: 2rem;
+  padding: 1rem 2rem;
+
+  box-sizing: border-box;
 
   font-family: "Lexend Deca", system-ui, sans-serif;
 }
 
-.page-list-packs * {
-  font-family: inherit;
-}
-
 .page-list-packs > div {
+  min-height: 0;
   overflow-y: auto;
 }
 
@@ -50,9 +50,9 @@
 }
 
 .page-list-packs .list-container {
-  padding-inline: 1rem;
+  padding-inline: .5rem;
   overflow-y: auto;
-  max-height: calc(100vh - 4rem);
+  min-height: 0;
 }
 
 .page-list-packs .list {
@@ -118,10 +118,8 @@
 
 .page-list-packs .video {
   width: 100%;
-  max-width: 100%;
+  height: auto;
   aspect-ratio: 16 / 9;
-  border-radius: 0.5rem;
-  display: block;
 }
 
 .page-list-packs .stats {
@@ -218,10 +216,11 @@
     flex-wrap: wrap;
   }
 
-  .page-list-packs .level-container {
-    max-width: 100%;
-    padding-right: 0;
-  }
+.page-list-packs .level-container {
+  padding-right: 1rem;
+  min-width: 0;
+  max-width: none;
+}
 
   .page-list-packs .stats {
     flex-wrap: wrap;
