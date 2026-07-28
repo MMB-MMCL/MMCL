@@ -103,7 +103,6 @@ export async function fetchLeaderboard() {
                 link: record.link,
             });
         });
-    });
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
@@ -175,26 +174,26 @@ export async function fetchCreatorLeaderboard() {
             errs.push(err);
             return;
         }
-
+    
         // Use the face value instead of quality
         const points = FACE_POINTS[(level.face || "").toLowerCase()] || 0;
-
+    
         // If there are no creators, credit the author instead.
         const creators =
             level.creators && level.creators.length > 0
                 ? level.creators
                 : [level.author];
-        
+    
         creators.forEach((creator) => {
             const user =
                 Object.keys(creatorMap).find(
                     (u) => u.toLowerCase() === creator.toLowerCase(),
                 ) || creator;
-        
+    
             creatorMap[user] ??= {
                 levels: [],
             };
-        
+    
             creatorMap[user].levels.push({
                 level: level.name,
                 face: level.face,
@@ -202,8 +201,8 @@ export async function fetchCreatorLeaderboard() {
                 link: level.verification,
             });
         });
-    });
-
+    }); // <-- You were missing this
+    
     const res = Object.entries(creatorMap).map(([user, data]) => ({
         user,
         total: round(
@@ -211,13 +210,13 @@ export async function fetchCreatorLeaderboard() {
         ),
         levels: data.levels.sort((a, b) => b.score - a.score),
     }));
-
+    
     return [
         res.sort((a, b) => {
             if (b.total !== a.total) {
                 return b.total - a.total;
             }
-
+    
             return a.user.localeCompare(b.user);
         }),
         errs,
