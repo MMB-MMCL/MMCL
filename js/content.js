@@ -103,7 +103,8 @@ export async function fetchLeaderboard() {
                 link: record.link,
             });
         });
-
+    });
+    
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
