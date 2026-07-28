@@ -87,9 +87,6 @@ export default {
 
                             <tr v-for="level in entry.levels" :key="level.level">
 
-                                <td class="rank">
-                                    <p>{{ level.face }}</p>
-                                </td>
 
                                 <td class="level">
                                     <a
