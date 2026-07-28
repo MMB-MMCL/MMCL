@@ -127,12 +127,36 @@ export async function fetchLeaderboard() {
    Creator Leaderboard
 =========================== */
 
-const QUALITY_POINTS = {
-    normal: 1,
-    featured: 2,
-    epic: 3,
-    legendary: 4,
-    mythic: 5,
+const FACE_POINTS = {
+    e1: 10,
+    m1: 10,
+    h1: 10,
+    i1: 10,
+    ex1: 10,
+
+    e2: 20,
+    m2: 20,
+    h2: 20,
+    i2: 20,
+    ex2: 20,
+
+    e3: 40,
+    m3: 40,
+    h3: 40,
+    i3: 40,
+    ex3: 40,
+
+    e4: 80,
+    m4: 80,
+    h4: 80,
+    i4: 80,
+    ex4: 80,
+
+    e5: 160,
+    m5: 160,
+    h5: 160,
+    i5: 160,
+    ex5: 160,
 };
 
 export async function fetchCreatorLeaderboard() {
@@ -147,8 +171,8 @@ export async function fetchCreatorLeaderboard() {
             return;
         }
 
-        const points =
-            QUALITY_POINTS[(level.quality || "").toLowerCase()] || 0;
+        // Use the face value instead of quality
+        const points = FACE_POINTS[(level.face || "").toLowerCase()] || 0;
 
         if (!level.creators || level.creators.length === 0) {
             return;
@@ -166,9 +190,8 @@ export async function fetchCreatorLeaderboard() {
 
             creatorMap[user].levels.push({
                 level: level.name,
-                quality: level.quality,
+                face: level.face,
                 score: points,
-                rank: level.rank,
                 link: level.verification,
             });
         });
