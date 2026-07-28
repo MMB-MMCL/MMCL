@@ -23,7 +23,7 @@ export default {
         <main v-else class="page-leaderboard-container">
             <div class="page-leaderboard">
             
-            <div class="leaderboard-switch">
+                <div class="leaderboard-switch">
                     <button
                         @click="$router.push('/leaderboard')">
                         Player Leaderboard
@@ -45,7 +45,7 @@ export default {
 
                 <div class="board-container">
                     <table class="board">
-                        <tr v-for="(creator, i) in leaderboard">
+                        <tr v-for="(creator, i) in leaderboard" :key="creator.user">
 
                             <td class="rank">
                                 <p class="type-label-lg">#{{ i + 1 }}</p>
@@ -85,10 +85,10 @@ export default {
 
                         <table class="table">
 
-                            <tr v-for="level in entry.levels">
+                            <tr v-for="level in entry.levels" :key="level.level">
 
                                 <td class="rank">
-                                    <p>{{ level.quality }}</p>
+                                    <p>{{ level.face }}</p>
                                 </td>
 
                                 <td class="level">
