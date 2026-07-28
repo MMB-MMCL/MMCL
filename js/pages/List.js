@@ -37,8 +37,15 @@ export default {
       });
     },
       faceImage() {
-        if (!this.selectedLevel?.face) return "";
-        return `/assets/Demons/${this.selectedLevel.face}.png`;
+        const face = this.selectedLevel?.face;
+    
+        if (!face) return "";
+    
+        if (["1", "2", "3", "4", "5"].includes(String(face))) {
+            return "";
+        }
+    
+        return `/assets/Demons/${face}.png`;
     },
     selectedLevel() {
       return this.filteredList[this.selected]
@@ -123,7 +130,7 @@ export default {
         <div class="level">
          <div class="level-header">
             <img
-                v-if="selectedLevel?.face"
+                v-if="faceImage"
                 class="demon-face"
                 :src="faceImage"
                 :alt="selectedLevel.name"
