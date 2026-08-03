@@ -1,23 +1,25 @@
 .page-list-packs {
   display: grid;
-  grid-template-columns: 180px 220px 1fr;
+  grid-template-columns: 180px 220px minmax(0, 1fr);
 
-  gap: 1.5rem;
+  gap: 1rem;
 
   width: 100%;
-  max-width: 1200px;
-  height: calc(100vh - 4rem);
+  height: calc(100vh - 64px); /* Full viewport minus navbar */
+  max-width: 100vw;
 
-  margin: 0 auto;
-  padding: 1rem 2rem;
+  margin: 0;
+  padding: 1rem;
 
   box-sizing: border-box;
+  overflow: hidden;
 
   font-family: "Lexend Deca", system-ui, sans-serif;
 }
 
 .page-list-packs > div {
   min-height: 0;
+  min-width: 0;
   overflow-y: auto;
 }
 
@@ -50,9 +52,10 @@
 }
 
 .page-list-packs .list-container {
-  padding-inline: .5rem;
+  min-width: 0;
   overflow-y: auto;
-  min-height: 0;
+  overflow-x: hidden;
+  padding: 0;
 }
 
 .page-list-packs .list {
@@ -96,8 +99,10 @@
 }
 
 .page-list-packs .level-container {
-  padding-right: 2rem;
-  max-width: 48rem;
+  min-width: 0;
+  max-width: none;
+  padding-right: 0;
+  overflow-y: auto;
 }
 
 .page-list-packs .level {
@@ -118,8 +123,9 @@
 
 .page-list-packs .video {
   width: 100%;
-  height: auto;
+  max-width: 900px;
   aspect-ratio: 16 / 9;
+  height: auto;
 }
 
 .page-list-packs .stats {
@@ -181,13 +187,7 @@
 }
 
 .page-list-packs .progress-bar {
-  width: 220px;
-  height: 10px;
-  background: var(--color-background-hover);
-  border-radius: 999px;
-  overflow: hidden;
-  display: inline-block;
-  margin-right: 0.75rem;
+  width: min(220px, 100%);
 }
 
 .page-list-packs .progress {
@@ -208,7 +208,10 @@
   .page-list-packs {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    height: auto;
+    min-height: calc(100vh - 64px);
+    overflow: auto;
+    padding: 0.75rem;
   }
 
   .page-list-packs .pack-selector {
@@ -216,17 +219,17 @@
     flex-wrap: wrap;
   }
 
-.page-list-packs .level-container {
-  padding-right: 1rem;
-  min-width: 0;
-  max-width: none;
-}
+  .page-list-packs .list-container,
+  .page-list-packs .level-container {
+    overflow: visible;
+  }
 
   .page-list-packs .stats {
     flex-wrap: wrap;
+    gap: 1rem;
   }
 
   .page-list-packs .progress-bar {
-    width: 120px;
+    width: 140px;
   }
 }
