@@ -233,3 +233,21 @@
     width: 140px;
   }
 }
+
+.level-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.demon-face {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.level-header h1 {
+  margin: 0;
+}
