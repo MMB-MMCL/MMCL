@@ -222,9 +222,10 @@ export default {
               <div class="type-title-sm">Skillset</div>
               <p>{{ selectedLevel.ss || 'Wave' }}</p>
             </li>
-            <p class="level-rank">
-            <strong>Rank:</strong> #{{ getOriginalRank(selectedLevel) }}
-          </p>
+            <li>
+              <div class="type-title-sm">Rank</div>
+              <p>{{ getOriginalRank(selectedLevel.id) }}</p>
+            </li>
           </ul>
 
           <!-- Pack Progression -->
