@@ -29,6 +29,18 @@ export default {
       );
       return found ? found[0] : null;
     },
+    
+    faceImage() {
+      const face = this.selectedLevel?.face;
+    
+      if (!face) return "";
+    
+      if (["1", "2", "3", "4", "5"].includes(String(face))) {
+        return "";
+      }
+    
+      return `/assets/Demons/${face}.png`;
+    },
 
     getOriginalRank() {
       return (levelId) => {
@@ -37,6 +49,8 @@ export default {
         );
       };
     },
+    
+
 
     packCompletions() {
       if (!this.selectedPack) return [];
@@ -194,7 +208,16 @@ export default {
       <!-- Level detail -->
       <div class="level-container" v-if="selectedLevel">
         <div class="level">
-          <h1>{{ selectedLevel.name }}</h1>
+          <div class="level-header">
+            <img
+              v-if="faceImage"
+              class="demon-face"
+              :src="faceImage"
+              :alt="selectedLevel.name"
+            >
+          
+            <h1>{{ selectedLevel.name }}</h1>
+          </div>
 
           <LevelAuthors
             :author="selectedLevel.author"
