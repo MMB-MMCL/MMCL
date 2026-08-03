@@ -219,12 +219,8 @@ export default {
               <p>{{ selectedLevel.id }}</p>
             </li>
             <li>
-              <div class="type-title-sm">FPS</div>
-              <p>{{ selectedLevel.fps || 'Any' }}</p>
-            </li>
-            <li>
-              <div class="type-title-sm">VERSION</div>
-              <p>{{ selectedLevel.version || 'Any' }}</p>
+              <div class="type-title-sm">Skillset</div>
+              <p>{{ selectedLevel.ss || 'Wave' }}</p>
             </li>
           </ul>
 
