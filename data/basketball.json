@@ -1,0 +1,38 @@
+{
+    "id": 131492060,
+    "name": "BasketBallBallBasket",
+    "author": "TomatoKatsup",
+    "creators": [],
+    "verifier": "Tomato",
+    "verification": "https://youtu.be/f8MI1IOMTME",
+    "percentToQualify": "100",
+    "fps": "Any",
+    "records": [
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=cn4EQICpltA",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1465453441198456942",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+          "user": "Probro675",
+            "link": "https://medal.tv/games/geometry-dash/clips/magwDdWvrZgSCN2x2",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/kD432Wc-XlE?si=u_daQAyzFIukeNdO",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
+    ]
+}
