@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=aCyd_tKcW2Q",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "tomato",
+            "link": "https://youtu.be/ApeQw-6tIHU",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
