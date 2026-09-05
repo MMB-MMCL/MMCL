@@ -20,6 +20,12 @@
             "link": "https://youtu.be/XZV4lCW1Dik?si=aYJbweFmSRyxKRqK&t=715",
             "percent": 100,
             "hz": 720
+        },
+        {
+            "user": "rusty",
+            "link": "https://youtu.be/PfHm2yE6Y5k",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
