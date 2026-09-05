@@ -19,6 +19,12 @@
             "link": "https://youtu.be/5998oK9Nci4?si=pa_5PKmzLH84jqCe",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tomato",
+            "link": "https://cdn.discordapp.com/attachments/1545882018599014462/1545882019970547773/free.mov?ex=6a9dc252&is=6a9c70d2&hm=3ff83ac9cd76be6cb8422f2ee7e69dd1b8d3986128872a9cc084964b8c3eb168&",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
