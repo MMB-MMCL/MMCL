@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "face": "h1",
     "ss": "Robot",
-    "records": [
+    "records": [        
+        {
+            "user": "probro675",
+            "link": "https://youtu.be/YTwLqYaSRFQ?is=u0UNGerpGd2t9yO8",
+            "percent": 100,
+            "hz": "CBS"
+        }
     ]
 }
