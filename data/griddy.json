@@ -61,6 +61,12 @@
             "link": "https://youtu.be/QS86rBB4Zec?si=IYKn9KlBskpGIHKg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "tomato",
+            "link": "https://youtu.be/ApeQw-6tIHU",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
