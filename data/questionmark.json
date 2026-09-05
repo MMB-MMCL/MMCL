@@ -49,6 +49,12 @@
             "user": "triologix",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tomato",
+            "link": "https://youtu.be/ApeQw-6tIHU",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
