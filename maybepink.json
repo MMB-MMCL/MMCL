@@ -9,5 +9,11 @@
     "face": "e1",
     "ss": "Timings",
     "records": [
+        {
+            "user": "Triologix",
+            "link": "https://cdn.discordapp.com/attachments/1535319762769281044/1535319763155161089/RPReplay_Final1786119004.mov?ex=6a9d90f4&is=6a9c3f74&hm=826e60412e9b479963a360c5d5c8ea0684ab07af5226730821b2ed9f3c9de1d4&",
+            "percent": 100,
+            "hz": "60"
+        }
     ]
 }
